@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep ^[[:alhpa:]] /etc/ssh/sshd_config
+grep ^[[:alhpa:]] /etc/ssh/sshd_config
